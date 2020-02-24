@@ -1,8 +1,8 @@
 #TWIL
 
 
-***********************
+**
 
-* today what i learnd *
+* today what i learnd 
 
-***********************
+**
